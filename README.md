@@ -1,5 +1,4 @@
 # Biography
-<!DOCTYPE html>
 <html lang="uz">
 <head>
     <meta charset="UTF-8">
@@ -52,7 +51,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="/mnt/data/20220728_090537.jpg" alt="Mening Rasim">
+            <img src="20220728_090537.jpg" alt="Mening Rasim">
             <h1>Men Haqimda</h1>
         </div>
         <div class="section">
