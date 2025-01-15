@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: url('https://via.placeholder.com/1920x1080?text=Cyber+Security+Background') no-repeat center center fixed;
+            background: url('Screenshot from 2025-01-15 10-54-43.png') no-repeat center center fixed;
             background-size: cover;
             color: white;
         }
